@@ -7,13 +7,13 @@
     display: grid;
     height: 100vh;
     place-items: center;
-    background: #a0eeff;
+    background: #E5E3C9;
   }
   .container {
     width: 20rem;
     margin: auto;
     text-align: center;
-    box-shadow: 20px 20px 60px #88cad9, -20px -20px 60px #b8ffff;
+    box-shadow: 20px 20px 60px #94B49F, -20px -20px 60px #94B49F;
     border-radius: 10px;
     position: relative;
   }
@@ -21,7 +21,7 @@
     width: 90%;
     resize: none;
     height: 10rem;
-    background: #a0eeff;
+    background: #B4CFB0;
     outline: none;
     padding: 1rem 0.6rem;
     margin-bottom: 2rem;
@@ -33,7 +33,7 @@
   .title {
     text-align: center;
     font-size: 1.2rem;
-    background: #45ddff;
+    background: #E5E3C9;
     padding: 10px;
     border-radius: 10px 10px 0 0;
   }
@@ -48,7 +48,7 @@
     font-size: 0.8rem;
     border-radius: 0 0 10px 10px;
     /* opacity: 0;*/
-    background: #45ddff;
+    background: #E5E3C9;
     transition: 1s;
   }
   @media (max-width: 20rem) {
